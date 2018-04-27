@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SimpleTown/DemoScene/SimpleTown_DemoScene.unity
+- path: Assets/Scenes/Music_Store.unity
   isLoaded: 1
   isActive: 1
